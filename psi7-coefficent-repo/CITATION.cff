@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+title: "The Heptagonal Coefficient (ψ₇): A Universal Constant in 7-Fold Systems"
+authors:
+  - family-names: Banick
+    given-names: William
+    orcid: "https://orcid.org/"
+type: software
+date-released: 2025-12-03
+version: 1.0
+repository-code: "https://github.com/8bitbilly/psi7-coefficient"
+keywords:
+  - mathematics
+  - geometry
+  - heptagonal
+  - universal-constant
+  - complexity
+  - 7-fold-systems
+  - mathematical-discovery
+license: "MIT, CC-BY-4.0, CC0"
+abstract: |
+  Discovery and validation of ψ₇ (the heptagonal chord-arc coefficient), 
+  a fundamental mathematical constant appearing in geometry, biology, physics, 
+  chemistry, music, and language. The constant represents the optimal cardinality 
+  (7) for maintaining differentiated complexity while minimizing efficiency loss (3.33%).
+  
+  This repository contains complete mathematical proofs, code implementations, 
+  raw data, and validation across six independent domains.
+references:
+  - type: article
+    title: "The Heptagonal Coefficient (ψ₇): Mathematical Origin and Initial Validation"
+    authors:
+      - family-names: Banick
+        given-names: William
+    year: 2025
+    month: 12
+    url: "https://github.com/8bitbilly/psi7-coefficient"
+
